@@ -1,2 +1,4 @@
-# Hellow-world
-This repository was created to present a resume about all the researches and online projects have been developing by Christian Yarleque
+# 1-D precipitation reconstruction code
+this is a description about how to reconstruct time series precipiation (or any like) using discreate wavelet transform, this is new methodology, which is in base the multi-scale analysis and processing as well.
+
+
